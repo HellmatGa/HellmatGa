@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hellmat Gabriel 😎 
+## Fala, Devs. Sejam bem vindos ao meu perfil GitHub 
 
-<!--
-**HellmatGa/HellmatGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Aspirante à desenvolvedor full-stak 
+- 📚 Aluno da Alura
+- 🔍 Atualmente estou aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="25" heigth="25"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="24" heigth="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="19" heigth="19"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" heigth="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="24" heigth="24"/>
+- 💡Deixarei meu perfil GitHub com alguns dos meus projetos realizados
+- ☎️ Para entrar em contato basta acessar o link das minhas redes sociais ou via email.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+<a href="https://github.com/Hellamt">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellmat&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellmat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
