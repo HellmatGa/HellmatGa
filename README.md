@@ -1,4 +1,4 @@
-# Hellmat Gabriel 😎 
+# Hellmat Gabriel 
  Fala, Devs. Sejam bem vindos ao meu perfil GitHub 
 
 - 🔭 Aspirante à desenvolvedor full-stak 
