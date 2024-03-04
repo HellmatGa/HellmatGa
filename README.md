@@ -8,7 +8,7 @@
 - ☎️ Para entrar em contato basta acessar o link das minhas redes sociais ou via email.
 
 <div>
-<a href="https://github.com/Hellamt">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellmat&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellmat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/HellmatGa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellmatGa&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HellmatGa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
