@@ -7,7 +7,6 @@
 - 💡Deixarei meu perfil GitHub com alguns dos meus projetos realizados
 - ☎️ Para entrar em contato basta acessar o link das minhas redes sociais ou via email.
 
-##
 <div>
 <a href="https://github.com/Hellamt">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellmat&layout=compact&langs_count=7&theme=dracula"/>
