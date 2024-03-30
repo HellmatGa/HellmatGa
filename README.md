@@ -1,7 +1,7 @@
 # Hellmat Gabriel 
  Fala, Devs. Sejam bem vindos ao meu perfil GitHub 
 
-- 🔭 Aspirante à desenvolvedor full-stak 
+- 🔭 Aspirante à desenvolvedor Full Stack  
 - 📚 Aluno da Alura e Generation Brasil
 - 🔍 Atualmente estou aprendendo <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="25" heigth="25"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="24" heigth="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="19" heigth="19"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" heigth="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="24" heigth="24"/>
 - 💡Deixarei meu perfil GitHub com alguns dos meus projetos realizados
