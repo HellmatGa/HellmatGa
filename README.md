@@ -1,6 +1,6 @@
-# Hellmat Gabriel 
- Fala, Devs. Sejam bem vindos ao meu perfil GitHub 
-
+ # Hellmat Gabriel 
+ Hey, Devs. Welcome to my GitHub profile.
+ ##
 - 🔭 Aspiring FullStack Developer
 - 💡Passionate about innovation and technology
 - 📚 Alura and Generation Brasil student
@@ -12,3 +12,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellmatGa&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HellmatGa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+
