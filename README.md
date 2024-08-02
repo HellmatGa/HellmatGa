@@ -1,5 +1,4 @@
- # Hellmat Gabriel 
- Hey, Devs. Welcome to my GitHub profile.
+  # Hey, Devs. Welcome to my GitHub profile.
  ##
 - 🔭 Aspiring FullStack Developer
 - 💡Passionate about innovation and technology
