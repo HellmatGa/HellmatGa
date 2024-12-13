@@ -1,7 +1,7 @@
   # Hey, Devs. Welcome to my GitHub :octocat:
  ##
 - 🔭 Aspiring FullStack Developer
-- 💻 Cursando o 2° semestre de Analíse e Desenvolvimento de Sotfware na Fiap
+- 💻 Attending the 2nd semester of Software Analysis and Development at Fiap
 - 📖 Analysis and systems development
 ##
 ##
