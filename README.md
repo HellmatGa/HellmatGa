@@ -1,7 +1,7 @@
   # Hey, Devs. Welcome to my GitHub :octocat:
  ##
 - 🔭 Aspiring FullStack Developer
-- 📚 Alura and FIAP student
+- 💻 Cursando o 2° semestre de Analíse e Desenvolvimento de Sotfware na Fiap
 - 📖 Analysis and systems development
 ##
 ##
